@@ -1,2 +1,3 @@
-# SIErepository
-Modelo de almacenamiento en la nube para la capacitación de personal en temas de analisis de datos, ingeniería de datos, manejo de SQL, manejo de Power Bi, etc.
+﻿# Funciones más usadas.
+
+en esta sección se mostraran problemas comunes en el uso de SQL, de modo que se puede comprender la funcionalidad de estas funciones y sus casos tipicos de uso.
