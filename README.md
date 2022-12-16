@@ -1,3 +1,4 @@
 # Repositorio de Capacitación Técnica SIE
 Este reporsitorio pretende mostrar un modelo de almacenamiento en la nube para la capacitación técnica de personal en temas de analisis de datos, ingeniería de datos, manejo de SQL, manejo de Power Bi, etc. Relacionado al ambiente de trabajo, de forma tal, que permita incrementar la eficiencia y el desempeño en las tareas que desarrollan los nuevos colaboradores.
+
 Por lo que este repositorio no busca mostrar información sino brindar un estilo de organización inicial de este tipo de material, el cual a futuro se puede integrar con plataformas academicas existentes como sap o moodle, o en su defecto desarrollar una plataforma que presente estos temas de forma mas eficiente y atractiva. Asi mismo, es necesario aclarar que este modelo no es unicamente del área de trabajo si no que se puede replicar en diferentes áreas o de ser necesario en la empresa.
