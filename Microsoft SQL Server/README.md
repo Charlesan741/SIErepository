@@ -1,4 +1,6 @@
-# Microsoft SQL Server
+﻿# Microsoft SQL Server
+
+## este es un ejemplo de el tipo de información que se muestra en cada sección.
 
 Microsoft SQL Server es una de las herramientas mas usadas en el mundo de los datos, 
 existen otras similares como lo son Oracle SQL Developer o MongoDB. Estas se conocen 
