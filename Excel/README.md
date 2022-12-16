@@ -1,4 +1,6 @@
-# Microsoft Excel
+﻿# Microsoft Excel
+## Ejemplo de la información general que se encontraría acerca de la herramienta.
+
 Con el fin de mejorar las habilidades en el uso de excel se crearon carpetas que contienen 
 ejercicios, videos y ejemplos acerca de las herramientas de excel mas utilizadas en el mundo de los datos;
 tales como:

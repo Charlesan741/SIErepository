@@ -1,2 +1,2 @@
-# SIErepository
-Modelo de almacenamiento en la nube para la capacitación de personal en temas de analisis de datos, ingeniería de datos, manejo de SQL, manejo de Power Bi, etc.
+﻿# Macros
+en esta sección se explicará de forma detallada que son las macros, para que sirven y como se generan. se presentarán problemas al usuario para que pueda aplicar lo adquirido.

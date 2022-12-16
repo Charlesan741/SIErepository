@@ -1,2 +1,3 @@
-# SIErepository
-Modelo de almacenamiento en la nube para la capacitación de personal en temas de analisis de datos, ingeniería de datos, manejo de SQL, manejo de Power Bi, etc.
+﻿# Modelos de datos
+
+Esta sección pretende capacitar al colaborador en la interpretación y generación de modelos de datos en powerbi que permitan relacionar la información de forma rápida y eficiente.

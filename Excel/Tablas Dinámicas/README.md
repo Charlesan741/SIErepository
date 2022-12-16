@@ -1,2 +1,2 @@
-# SIErepository
-Modelo de almacenamiento en la nube para la capacitación de personal en temas de analisis de datos, ingeniería de datos, manejo de SQL, manejo de Power Bi, etc.
+﻿# Tablas dinámicas
+En este modulo se explicará de forma detallada que son las tablas dinámicas y para que se usan, adicionalmente mediante ejemplos se explicará los métodos de generación de tablas dinámicas.
